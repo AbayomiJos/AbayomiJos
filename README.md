@@ -18,6 +18,3 @@ I'm currently working as freelancer<br>I'm currently learning DevSecOps and Clou
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abayomijos&label=Profile%20Views&color=4&icon=5&pretty=true" />
-</a>
