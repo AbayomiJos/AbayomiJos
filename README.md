@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as freelancer<br>I'm currently learning DevSecOps and Cloud Devops<br>All my projects are available at https://github.com/AbayomiJos <br>Ask me about  DevSecOps and Cloud Devops<br>How to reach me reachabayomi@gmail.com
+I'm currently working as freelancer<br>I'm a DevSecOps and Cloud Devops Engineer<br>All my projects are available at https://github.com/AbayomiJos <br>Ask me about  DevSecOps and Cloud Devops<br>How to reach me reachabayomi@gmail.com
 
 
 ## 🌐 Socials:
